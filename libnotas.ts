@@ -1,4 +1,4 @@
-import { readFile, writeFile, readFileSync } from 'fs';
+import { writeFile, readFileSync } from 'fs';
 import { argv } from 'process';
 
 // @filename libnotas.ts
